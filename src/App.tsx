@@ -108,6 +108,8 @@ export function App() {
               </span>
             </div>
 
+            <Separator />
+
             <div className="space-y-4">
               <Label>Temperatura</Label>
               <Slider
